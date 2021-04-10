@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Lab-Overloading" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.lab.overloading.test" />
+    <module name="Lab-Overloading" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
